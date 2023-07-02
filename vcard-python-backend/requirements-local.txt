@@ -1,0 +1,6 @@
+pip
+streamlit
+requests
+vobject
+pandas
+mysql-connector-python
